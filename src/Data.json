@@ -227,7 +227,7 @@
     },
     {
       "question": "As a production supervisor, Joe determines the number of output units his department will produce each week. On Monday, he informs his team that the schedule is going to be difficult this week due to the increased number of output units. He goes on to tell them that he is confident that they can fulfill the schedule because they are tough, talented, and 'when the going gets tough, they are the ones who get going.' Each day during the  eek, Joe checks the amount of output that the employees have completed and the number of units that have been rejected. \nWhen Joe decides the number of output units his team will be able to produce this week, which management process is he performing?",
-      "answer": "",
+      "answer": "planning",
       "explanation": "Planning involves foreseeing the future and making accommodations to deal with what is likely to occur. Joe is performing both of these functions, so he is planning. None of the other choices involve specifically preparing for future occurrences, so planning is the only category that fits here."
     },
     {
@@ -247,7 +247,7 @@
     },
     {
       "question": "Which of the following is a key difference between managerial and nonmanagerial employees?",
-      "answer": "",
+      "answer": "Nonmanagerial employees do not oversee the work of others.",
       "explanation": "The distinction between managerial and nonmanagerial employees resides solely in overseeing work. Managers have the responsibility of supervising and directing work of others. Nonmanagerial employees do not have this responsibility. Managers may or may not receive better compensation, have more education, or work longer hours than nonmanagers—so none of these criteria can serve to distinguish between the two."
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "question": "Which of the following might be an example of increased efficiency in manufacturing?",
-      "answer": "",
+      "answer": "cutting the amount of labor required to make the product",
       "explanation": "Efficiency must involve reducing the input-to-output ratio in some way. Cutting the amount of labor reduces the amount of input and so marks an increase in efficiency. Cutting the price does not affect the amount of resources and labor that go into the product, nor does it improve the product itself, so it is not an efficiency measure. Increasing sales and advertising similarly do not change the input-output ratio so they do not increase efficiency."
     },
     {
@@ -796,11 +796,6 @@
       "explanation": ""
     },
     {
-      "question": "Successful planning depends more on whether managers plan than on the quality of their planning.",
-      "answer": "false",
-      "explanation": ""
-    },
-    {
       "question": "Tactical plans are operational plans that identify ________.",
       "answer": "how overall goals are to be achieved",
       "explanation": ""
@@ -996,7 +991,7 @@
       "explanation": "Designing interview questions would certainly require some degree of both interpersonal and political skills. However, the main challenge of the problem is to think through the complex situation of who would make a likely customer for a product. Therefore, conceptual skills would be of the highest priority for this task. The task would require little, if any, technical skills as writing the questions could be easily accomplished with a simple word-processing program or pencil and paper."
     },
     {
-      "question": "Good political skills would be most important to a manager who ________.            ",
+      "question": "Good political skills would be most important to a manager who ________.",
       "answer": "wants to rise through organizational ranks",
       "explanation": "Those who seek job security, fair pay, or a lighter workload do not need a network of allies within an organization to accomplish their goals. So they are much less in need of political skills than a manager who is ambitious and wants to rise through the company ranks. The ambitious manager needs supporters and can only acquire them by employing his or her political skills."
     },
@@ -1011,17 +1006,17 @@
       "explanation": "Thinking logically about abstract situations is a conceptual skill rather than a technical skill."
     },
     {
-      "question": "Technical skills might include ________.            ",
+      "question": "Technical skills might include ________.",
       "answer": "",
       "explanation": "Technical skills typically involve the mastery of some kind of specialized technology or technique that is helpful for a job. Verbal skills and writing ability are too general to qualify as 'technical.' Decision-making ability does not involve a special technology or technique. Computer programming, though more common today than it was in previous decades, best qualifies as a technical skill"
     },
     {
-      "question": "The managerial role that changes the least between middle and top managers is ________.            ",
-      "answer": "",
+      "question": "The managerial role that changes the least between middle and top managers is ________.",
+      "answer": "controlling",
       "explanation": "According to the studies summarized in the text, planning is the category that increases most, going from 18% of a manager's time to 28%. This is followed by organizing, which increases from 33% to 36%. Leading, in fact, decreases rather than increases by 14%. The category that increases least is controlling, which goes from 13% to 14%."
     },
     {
-      "question": "Under which category would you classify skill in motivating subordinates?            ",
+      "question": "Under which category would you classify skill in motivating subordinates?",
       "answer": "interpersonal skills",
       "explanation": "Conceptual and technical skills are too abstract and impersonal to qualify as a classification for motivational skill. Motivating people can feature a considerable amount of political skill. However, motivation is less about manipulating a power base within an organization than it is in simply relating well to other people, so interpersonal skills is the best choice for this question."
     },
@@ -1047,7 +1042,7 @@
     },
     {
       "question": "Michelle is the general manager of a power plant. This morning, she will meet with city officials to discuss environmental issues. After the meeting, she will confer with the plant's section managers to address the concerns of the city representatives. This afternoon, Michelle will meet with a team leader to go over a complaint filed by an employee. After the complaint meeting, Michelle plans to spend time in the library and on the Internet researching new technologies that can be used to improve the performance of her plant.When Michelle addresses a complaint filed by an employee, she is performing which management role?",
-      "answer": "",
+      "answer": "disturbance handler",
       "explanation": "A complaint is clearly a type of disturbance, so in addressing an employee's complaint, Michelle is functioning as a disturbance handler. None of the other roles—resource allocator, liaison, or figurehead—involve addressing problems directly or 'fixing' situations, so the correct choice here is disturbance handler."
     },
     {
@@ -1077,7 +1072,7 @@
     },
     {
       "question": "Michelle is the general manager of a power plant. This morning, she will meet with city officials to discuss environmental issues. After the meeting, she will confer with the plant's section managers to address the concerns of the city representatives. This afternoon, Michelle will meet with a team leader to go over a complaint filed by an employee. After the complaint meeting, Michelle plans to spend time in the library and on the Internet researching new technologies that can be used to improve the performance of her plant.Which type of management skill does Michelle use most during the day?",
-      "answer": "",
+      "answer": "interpersonal",
       "explanation": "Three of Michelle's activities for the day require interpersonal skills—meeting with the city officials, meeting with the section managers, and handling the employee's complaint. Michelle's research is the only activity she carries out that does not require some measure of interpersonal skill. None of the other skills—conceptual, informational, or political—is used as frequently."
     },
     {
@@ -1091,7 +1086,7 @@
       "explanation": "Rituals have been shown to be valuable for initiations, reinforcing attitudes and values, and conveying important ideas and ideals. One would hope that rituals would not be used to intimidate or stifle the instincts of an employee in any way, making the choice regarding that issue the correct response."
     },
     {
-      "question": "An industry with a dynamic business environment that is also highly complex faces the maximum amount of environmental uncertainty.            ",
+      "question": "An industry with a dynamic business environment that is also highly complex faces the maximum amount of environmental uncertainty.",
       "answer": "true",
       "explanation": "This kind of business corresponds to cell 4 in the environmental uncertainty matrix"
     },
@@ -1121,7 +1116,7 @@
       "explanation": "Both rituals and stories and legends are meant to be taken seriously. The two are different, however, in that a story or legend typically has a specific point it wants to make or a lesson it wants to teach. A ritual, on the other hand, is more concerned with conveying the company identity rather than communicating any specific message."
     },
     {
-      "question": "Sony Corporation's focus on product innovation is an example of which of the following dimensions of organizational culture?            ",
+      "question": "Sony Corporation's focus on product innovation is an example of which of the following dimensions of organizational culture?",
       "answer": "risk tolerance",
       "explanation": "Innovation is a creative process, and being creative almost always involves making mistakes and taking risks. This makes 'risk tolerance' the correct choice and eliminates the other items as they do not deal with innovation or creativity."
     },
@@ -1131,7 +1126,7 @@
       "explanation": "Managers in today's world must stay in touch with employees who can be located anywhere in the world and may have problems at any time of any day."
     },
     {
-      "question": "The age of a population is one of its most important demographics.            ",
+      "question": "The age of a population is one of its most important demographics.",
       "answer": "true",
       "explanation": "Different generations have different styles, tastes, and goals that affect how business is done."
     },
@@ -1141,7 +1136,7 @@
       "explanation": "Regulation can go only so far. In order for true reform to occur, business people need to assume a new mindset."
     },
     {
-      "question": "The cell phone industry faces a stable business environment.            ",
+      "question": "The cell phone industry faces a stable business environment.",
       "answer": "false",
       "explanation": "The cell phone industry faces constant and rapid change, making it a dynamic business environment."
     },
@@ -1181,7 +1176,7 @@
       "explanation": ""
     },
     {
-      "question": "The sociocultural component of the external environment of an organization includes trends and traditions, but not basic attitudes and values.            ",
+      "question": "The sociocultural component of the external environment of an organization includes trends and traditions, but not basic attitudes and values.",
       "answer": "false",
       "explanation": "The sociocultural component of the external environment includes all beliefs and values as well as attitudes and behavioral patterns."
     },
@@ -1191,7 +1186,7 @@
       "explanation": "The omnipotent view of management holds that an organization's performance is based solely on the decisions of managers."
     },
     {
-      "question": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind from a highly reliable source that games involving animals and ecosystems are likely to be extremely 'hot' in the coming year. Theodore is excited because TJ Soft has two games in development that fit the animal/eco niche perfectly. Which component of the external environment will affect TJ Soft the most in this situation?            ",
+      "question": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind from a highly reliable source that games involving animals and ecosystems are likely to be extremely 'hot' in the coming year. Theodore is excited because TJ Soft has two games in development that fit the animal/eco niche perfectly. Which component of the external environment will affect TJ Soft the most in this situation?",
       "answer": "the sociocultural component",
       "explanation": "The demographic component, political component, and global components are likely to play only marginal roles in the success of TJ Soft's new games. What will make a difference is that the assessment of public taste—the appetite for a specific kind of game—has been correctly assessed. This assessment employs the sociocultural component of the external managerial environment"
     },
@@ -1202,7 +1197,7 @@
     },
     {
       "question": "Theodore and Janice have formed TJ Soft, an entrepreneurial venture to develop games and other kinds of software for consumers. Theodore has just gotten wind that engineers have developed a new computer system that works like the devices shown in the Steven Spielberg movie Minority Report in which users can control a sophisticated computer using their hands in midair. Janice sees this development as highly important to new games for TJ Soft. Which component of the external environment will affect TJ Soft the most in this situation?",
-      "answer": "the technological component            ",
+      "answer": "the technological component",
       "explanation": "The sociocultural component, political component, and global components are likely to play only marginal roles in the success of TJ Soft's new games. What will make a difference is a technology developme"
     },
     {
@@ -1231,7 +1226,7 @@
       "explanation": ""
     },
     {
-      "question": "What will cause countries such as Denmark to shrink with respect to the size of their economy, relative to other nations?            ",
+      "question": "What will cause countries such as Denmark to shrink with respect to the size of their economy, relative to other nations?",
       "answer": "low birth rate",
       "explanation": "Shrinking populations augur a smaller share of the world's economic pie in developed European nations such as Denmark, Norway, and Belgium. Social safety nets and welfare payments have little to do with the size of the economies of these nations, which, incidentally, are quite healthy despite the low growth rate of their populations."
     },
@@ -1262,11 +1257,11 @@
     },
     {
       "question": "Which managerial organizing decision is most affected by organizational culture?",
-      "answer": "whether workers should work individually or in teams",
+      "answer": "how to structure employee evaluations",
       "explanation": "Environmental scanning is a part of the planning function of a manager. Handling employee disagreements is part of the leading function. Structuring evaluations is part of the controlling function. Assigning employees to work in teams or as individuals is part of the organizing function of a manager."
     },
     {
-      "question": "Which managerial planning decision is most affected by organizational culture?            ",
+      "question": "Which managerial planning decision is most affected by organizational culture?",
       "answer": "the degree of risk that plans contain",
       "explanation": "Autonomy falls into the category of organizing while empowerment is a controlling decision. Leadership style is categorized in the leading function. That leaves risk, which is a part of the planning function of a manager as the correct response."
     },
@@ -1312,7 +1307,7 @@
     },
     {
       "question": "Which of the following phrases best characterizes the culture of an organization?",
-      "answer": "how things are done around here            ",
+      "answer": "how things are done around here",
       "explanation": "The most apt phrase for an organizational culture is 'how things are done around here.' An organizational culture is not thought to be official in any way, efficient, or comprised of a set of guidelines to light the way to the future. Instead, the organizational culture is a set of values and attitudes, making 'how things are done around here' a perfect description"
     },
     {
@@ -1331,7 +1326,7 @@
       "explanation": "The symbolic view of management contends that a manager's ability to affect the organization's outcomes is constrained by external factors such as the economy."
     },
     {
-      "question": "Which statement about the external environment and employment is true?            ",
+      "question": "Which statement about the external environment and employment is true?",
       "answer": "",
       "explanation": "During boom times, unemployment drops and wages tend to rise, improving the fortunes of the working public. During recessions and downturns, the opposite takes place: unemployment rises and wages tend to stagnate or drop. Overall, jobs closely correlate with the state of the economy."
     },
@@ -1341,32 +1336,12 @@
       "explanation": "Being coherent or free-spirited did not have the impact on culture the sheer size of the Baby Boom generation did. Because of its large size, the generation dictated almost every cultural trend and style for over forty years"
     },
     {
-      "question": "The Hawthorne Studies refer to __________ conducted at the Hawthorne Works of the Western Electric Company.",
-      "answer": "??",
-      "explanation": ""
-    },
-    {
-      "question": "Maslow’s theory of human needs is consistent with which area of management thought?",
-      "answer": "??",
-      "explanation": ""
-    },
-    {
-      "question": "The three branches of the classical approach to management are __________.            ",
+      "question": "The three branches of the classical approach to management are __________.",
       "answer": "Scientific management, administrative principles, and bureaucratic organization.",
       "explanation": ""
     },
     {
-      "question": "The practical lessons of scientific management include all of the following EXCEPT:",
-      "answer": "",
-      "explanation": ""
-    },
-    {
-      "question": "According to Henri Fayol, the five rules of management are __________.",
-      "answer": " Foresight, organization, command, coordination, and control.",
-      "explanation": ""
-    },
-    {
-      "question": "Weber’s conception of bureaucratic organizations included all of the following characteristics         EXCEPT:",
+      "question": "Weber’s conception of bureaucratic organizations included all of the following characteristics EXCEPT:",
       "answer": "Careers based on social and/or political connections.",
       "explanation": ""
     },
@@ -1386,7 +1361,7 @@
       "explanation": ""
     },
     {
-      "question": "Management science refers to the scientific application of mathematical techniques to management problems and decision-making.            ",
+      "question": "Management science refers to the scientific application of mathematical techniques to management problems and decision-making.",
       "answer": "true",
       "explanation": ""
     },
@@ -1396,22 +1371,22 @@
       "explanation": ""
     },
     {
-      "question": "Many modern management concepts have parallels in some of the historical management writings, and contemporary managers are trying to perfect many ideas that have deep historical roots.            ",
+      "question": "Many modern management concepts have parallels in some of the historical management writings, and contemporary managers are trying to perfect many ideas that have deep historical roots.",
       "answer": "false",
       "explanation": ""
     },
     {
-      "question": "The three branches of classical management approaches are scientific management, theory x and y, and bureaucratic organization.            ",
+      "question": "The three branches of classical management approaches are scientific management, theory x and y, and bureaucratic organization.",
       "answer": "false",
       "explanation": ""
     },
     {
-      "question": "A major assumption of classical approaches to management is that people are much more driven by human concerns for other workers than by the need to achieve personal gain.            ",
+      "question": "A major assumption of classical approaches to management is that people are much more driven by human concerns for other workers than by the need to achieve personal gain.",
       "answer": "false",
       "explanation": ""
     },
     {
-      "question": "A concurrent control system focuses on __________.            ",
+      "question": "A concurrent control system focuses on __________.",
       "answer": "Work throughputs",
       "explanation": ""
     },
@@ -1461,14 +1436,9 @@
       "explanation": ""
     },
     {
-      "question": "The three variables that assist in determining a leader’s situational control according to Fiedler’s contingency theory are:            ",
+      "question": "The three variables that assist in determining a leader’s situational control according to Fiedler’s contingency theory are:",
       "answer": "Position power, task structure, and leader-member relations.",
       "explanation": ""
-    },
-    {
-      "question": "Janet is a supervisor of a group of bank tellers. Her subordinates are highly supportive, their jobs are well defined, and she has clear authority to evaluate and reward their performance. Which of the following leadership styles would be most recommended for Janet based upon Fiedler’s theory?            ",
-      "answer": "",
-      "explanation": "Relationship-oriented isnot the correct answer"
     },
     {
       "question": "__________ is the process of inspiring others to work hard to accomplish important tasks.",
@@ -1477,23 +1447,18 @@
     },
     {
       "question": "The management function of leading is BEST described by which of the following?",
-      "answer": "Building commitment and enthusiasm for people to apply their talents to help accomplish plans            ",
+      "answer": "Building commitment and enthusiasm for people to apply their talents to help accomplish plans",
       "explanation": ""
     },
     {
-      "question": "Reward power, coercive power, and legitimate power are different types of __________.            ",
+      "question": "Reward power, coercive power, and legitimate power are different types of __________.",
       "answer": "Position power.",
       "explanation": ""
     },
     {
-      "question": "When Laura, a department store manager, instructs her employees to do something simply because she is the boss and therefore the other person must do as asked, she is trying to use __________ power to influence the other person’s behavior.            ",
+      "question": "When Laura, a department store manager, instructs her employees to do something simply because she is the boss and therefore the other person must do as asked, she is trying to use __________ power to influence the other person’s behavior.",
       "answer": "legitimate",
       "explanation": ""
-    },
-    {
-      "question": "Vision, which is frequently associated with effective leadership, refers to __________.            ",
-      "answer": "",
-      "explanation": "The ability to spontaneously take charge in a group situation. - is not the correct answer"
     },
     {
       "question": "Personal traits that are common among successful leaders include all of the following EXCEPT:",
@@ -1541,16 +1506,6 @@
       "explanation": ""
     },
     {
-      "question": "Managers who choose to employ the two-factor theory should __________.            ",
-      "answer": "??",
-      "explanation": ""
-    },
-    {
-      "question": "Organizations that employ individuals on a part-time and temporary basis to supplement a permanent workforce are utilizing __________.",
-      "answer": "Contingency workers.",
-      "explanation": ""
-    },
-    {
       "question": "The belief that work motivation is determined by individual beliefs regarding effort-performance relationships and the desirability of possible rewards and other work-related outcomes is called.",
       "answer": "Expectancy theory.",
       "explanation": ""
@@ -1572,11 +1527,11 @@
     },
     {
       "question": "A successful manager must possess:",
-      "answer": "Both verbal and written skills.            ",
+      "answer": "Both verbal and written skills.",
       "explanation": ""
     },
     {
-      "question": "In regard to management styles:            ",
+      "question": "In regard to management styles:",
       "answer": "Different styles apply to different situations.",
       "explanation": ""
     },
@@ -1611,9 +1566,9 @@
       "explanation": ""
     },
     {
-      "question": "Susan prefers to lead her department by allowing her employees the right to make decisions and take action. Susan is utilizing ___________.            ",
-      "answer": "What the manager should do.            ",
-      "explanation": "Empowerment"
+      "question": "Susan prefers to lead her department by allowing her employees the right to make decisions and take action. Susan is utilizing ___________.",
+      "answer": "Delegation",
+      "explanation": ""
     },
     {
       "question": "The line of authority that vertically links all persons with successively higher levels of management is the __________.",
@@ -1622,7 +1577,7 @@
     },
     {
       "question": "The number of persons reporting directly to a single manager is referred to as __________.",
-      "answer": "Span of control.            ",
+      "answer": "Span of control.",
       "explanation": ""
     },
     {
@@ -1651,12 +1606,12 @@
       "explanation": ""
     },
     {
-      "question": "When an organization chart shows vice presidents of marketing, manufacturing, finance, and human resources reporting directly to the president of a company, the top management group is organized as a __________ structure.            ",
+      "question": "When an organization chart shows vice presidents of marketing, manufacturing, finance, and human resources reporting directly to the president of a company, the top management group is organized as a __________ structure.",
       "answer": "Functional",
       "explanation": ""
     },
     {
-      "question": "When organizations grow in size, adding levels of management and thereby lengthening the chain of command, they tend to get __________.            ",
+      "question": "When organizations grow in size, adding levels of management and thereby lengthening the chain of command, they tend to get __________.",
       "answer": "Taller",
       "explanation": ""
     },
@@ -1678,6 +1633,196 @@
     {
       "question": "__________ structures group together jobs and activities that are being performed in the same location.",
       "answer": "Geographical",
+      "explanation": ""
+    },
+    {
+      "question": "________ sustainability includes preservation of biodiversity.",
+      "answer": "Environmental",
+      "explanation": ""
+    },
+    {
+      "question": "Another way to increase Energetica's CSR image is to have employees volunteer their services to the community. Which of the following is NOT a good example of community service?",
+      "answer": "an Energetica engineer demonstrating oil drilling safety equipment at an industry convention",
+      "explanation": ""
+    },
+    {
+      "question": "The board of directors of the Four Forks Generating Corporation is meeting to consider the construction of a new electrical generation facility near the Four Forks River. Director Appleton prefers a coal-burning plant because it promises to be the most profitable alternative. Over the short term at least, a coal plant will be by far the least expensive facility to build and operate. Coal is cheap and the considerable pollution from the plant won't affect anything within hundreds of miles from the plant. Director Estrella wants a nuclear plant to be located 30 miles upriver from the biggest city in the area. Nuclear power is cleaner than coal. Completely safeguarding the community against accidents in the plant or the disposal of toxic waste could be very expensive. However, Estrella has discovered that the job can be done much more cheaply by cutting some corners—while still strictly following all laws—and creating some additional risk for the community. Director Jossleman supports the most expensive option of the three—she wants a wind farm to be built along the banks of the river on top of a ridge. The wind turbines produce absolutely no pollution and pose no threat to the community or the environment. They are expensive to build and to operate at the current time because they require elaborate back-up systems to function when the wind isn't blowing. Director Jossleman is exhibiting which of the following social responsibility views?",
+      "answer": "socioeconomic view of social responsibility",
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is the best example of a company being socially responsive?",
+      "answer": "building a community day-care center",
+      "explanation": ""
+    },
+    {
+      "question": "How might a manager with a rights view of ethics view the prospect of forbidding an employee from making what he feels are 'misguided' political statements on her non-company website?",
+      "answer": "The manager would not interfere with the website.",
+      "explanation": ""
+    },
+    {
+      "question": "Those arguing against being socially responsible might make the claim that costs for social goals are ultimately ________.",
+      "answer": "paid for by consumers in the form of higher prices",
+      "explanation": ""
+    },
+    {
+      "question": "The board of directors of the Four Forks Generating Corporation is meeting to consider the construction of a new electrical generation facility near the Four Forks River. Director Appleton prefers a coal-burning plant because it promises to be the most profitable alternative. Over the short term at least, a coal plant will be by far the least expensive facility to build and operate. Coal is cheap and the considerable pollution from the plant won't affect anything within hundreds of miles from the plant.Director Estrella wants a nuclear plant to be located 30 miles upriver from the biggest city in the area. Nuclear power is cleaner than coal. Completely safeguarding the community against accidents in the plant or the disposal of toxic waste could be very expensive. However, Estrella has discovered that the job can be done much more cheaply by cutting some corners—while still strictly following all laws—and creating some additional risk for the community.Director Jossleman supports the most expensive option of the three—she wants a wind farm to be built along the banks of the river on top of a ridge. The wind turbines produce absolutely no pollution and pose no threat to the community or the environment. They are expensive to build and to operate at the current time because they require elaborate back-up systems to function when the wind isn't blowing. Director Estrella exhibits which of the following social responsibility views?",
+      "answer": "social obligation",
+      "explanation": ""
+    },
+    {
+      "question": "Energetica plans to buy a 'dirty' power plant next year. The purchase of this plant may cause Energetica to emit more overall sulfur dioxide than allowed under EPA law. What can Energetica do to remedy this situation?",
+      "answer": "buy emission allowances from another company",
+      "explanation": ""
+    },
+    {
+      "question": "Sustainability is the process of meeting ________ needs ________ needs.",
+      "answer": "current; without compromising future",
+      "explanation": ""
+    },
+    {
+      "question": "Values are personal beliefs that help determine whether a behavior will be considered ethical or unethical. An example of terminal value is __________ .",
+      "answer": "self-respect",
+      "explanation": ""
+    },
+    {
+      "question": "Successful planning depends more on whether managers plan than on the quality of their planning.",
+      "answer": "false",
+      "explanation": ""
+    },
+    {
+      "question": "A rational decision will never fail to provide the best and most successful solution to a problem.",
+      "answer": "false",
+      "explanation": ""
+    },
+    {
+      "question": "__________ is the system of tasks, workflows, reporting relationships, and communication channels that link together the work of diverse individuals and groups.",
+      "answer": "Organization structure.",
+      "explanation": ""
+    },
+    {
+      "question": "If a car buyer knows the inventory dealer price of the same car at different dealerships, he or she is operating under what type of decision-making condition?",
+      "answer": "certainty",
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is NOT a type of programmed decision?",
+      "answer": "brainstorm",
+      "explanation": ""
+    },
+    {
+      "question": "Intuitive decision making can complement ________.",
+      "answer": "both rationality and bounded rationality",
+      "explanation": ""
+    },
+    {
+      "question": "Emotions and feelings ________ decision making.",
+      "answer": "can improve",
+      "explanation": ""
+    },
+    {
+      "question": "The responsibility of __________ encompasses career development, work-life balance, compensation and benefits, retention and turnover, and labor-management relations.",
+      "answer": "Maintaining a quality workforce.",
+      "explanation": ""
+    },
+    {
+      "question": "The responsibility of __________ involves human resource planning, recruitment, and selection.",
+      "answer": "Attracting a quality workforce.",
+      "explanation": ""
+    },
+    {
+      "question": "Before a company can begin the process of attracting a qualified workforce it must __________.",
+      "answer": "A, B, and C.",
+      "explanation": ""
+    },
+    {
+      "question": "The extent to which an individual’s values, interests, and behavior are consistent with the culture of the organization defines ________.",
+      "answer": "Person-organization fit",
+      "explanation": ""
+    },
+    {
+      "question": "__________ is the process of attracting, developing, and maintaining a talented and energetic workforce.",
+      "answer": "Human resource management.",
+      "explanation": ""
+    },
+    {
+      "question": "__________ attempt to answer the question: “When and under what circumstances is a particular leadership style preferable to others?”",
+      "answer": "Contingency approaches to leadership.",
+      "explanation": ""
+    },
+    {
+      "question": "The practical lessons of scientific management include all of the following EXCEPT:",
+      "answer": "Allow workers to have input into the determination of work methods and performance standards.",
+      "explanation": ""
+    },
+    {
+      "question": "Maslow’s theory of human needs is consistent with which area of management thought?",
+      "answer": "Human relations movement.",
+      "explanation": ""
+    },
+    {
+      "question": "According to Henri Fayol, the five rules of management are __________.",
+      "answer": "Foresight, organization, command, coordination, and control.",
+      "explanation": ""
+    },
+    {
+      "question": "The Hawthorne Studies refer to __________ conducted at the Hawthorne Works of the Western Electric Company.",
+      "answer": "A research program on individual productivity.",
+      "explanation": ""
+    },
+    {
+      "question": "When the whole is greater than the sum of the individual parts, a special benefit of teamwork occurs. This special benefit is known as __________.",
+      "answer": "Synergy.",
+      "explanation": ""
+    },
+    {
+      "question": "The phases or stages in the life cycle of any team are __________.",
+      "answer": "Forming, storming, norming, performing, and adjourning.",
+      "explanation": ""
+    },
+    {
+      "question": "A tendency for highly cohesive groups to lose their evaluative capabilities is called __________.",
+      "answer": "Groupthink.",
+      "explanation": ""
+    },
+    {
+      "question": "A “must have” skill for a team is:",
+      "answer": "Accepting suggestions",
+      "explanation": ""
+    },
+    {
+      "question": "Teams can be increasingly difficult to manage as their size increases. The point at which team size becomes a significant input factor in effective group process is __________.",
+      "answer": "Six or seven team members.",
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following statements accurately describes communication effectiveness?",
+      "answer": "Effective communication occurs when the sender’s intended message and the receiver’s interpreted meaning of that message are identical.",
+      "explanation": ""
+    },
+    {
+      "question": "Organizations that employ individuals on a part-time and temporary basis to supplement a permanent workforce are utilizing __________.",
+      "answer": "Contingency workers.",
+      "explanation": ""
+    },
+    {
+      "question": "An unfulfilled physiological or psychological desire is called a(n):.",
+      "answer": "Need",
+      "explanation": ""
+    },
+    {
+      "question": "Managers who choose to employ the two-factor theory should __________.",
+      "answer": "A, B, and C.",
+      "explanation": ""
+    },
+    {
+      "question": "Vision, which is frequently associated with effective leadership, refers to __________.",
+      "answer": "A future that one hopes to create or achieve in order to improve upon the present state of affairs.",
+      "explanation": ""
+    },
+    {
+      "question": "Janet is a supervisor of a group of bank tellers. Her subordinates are highly supportive, their jobs are well defined, and she has clear authority to evaluate and reward their performance. Which of the following leadership styles would be most recommended for Janet based upon Fiedler’s theory?",
+      "answer": "Task-oriented.",
       "explanation": ""
     }
   ]

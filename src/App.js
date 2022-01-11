@@ -21,7 +21,6 @@ function App() {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
-        {/* <Button variant="primary">Search</Button> */}
       </div>
       {filteredDataData.map((q) => (
         <Card style={styles.card} key={q.question}>
