@@ -1824,6 +1824,76 @@
       "question": "Janet is a supervisor of a group of bank tellers. Her subordinates are highly supportive, their jobs are well defined, and she has clear authority to evaluate and reward their performance. Which of the following leadership styles would be most recommended for Janet based upon Fiedler’s theory?",
       "answer": "Task-oriented.",
       "explanation": ""
+    },
+    {
+      "question": "Which of the following is not a measure of central tendency?",
+      "answer": "standard deviation",
+      "explanation": ""
+    },
+    {
+      "question": "The value splits off the lowest 75% of data from the highest 25% is called the",
+      "answer": "The correct answer is: 3rd quartile ",
+      "explanation": ""
+    },
+    {
+      "question": "The mean is",
+      "answer": "The correct answer is: the statistical or arithmetic average",
+      "explanation": ""
+    },
+    {
+      "question": "The value that has 75% of the observations above it and 25% of the observations below it is called the",
+      "answer": "1st quartile",
+      "explanation": ""
+    },
+    {
+      "question": "——– is used to compare the variation  in two or more sets of data even though they are measured in different units.",
+      "answer": "coefficient of variation",
+      "explanation": ""
+    },
+    {
+      "question": "The value that has half of the observations above it and half the observations below it is called the",
+      "answer": "median",
+      "explanation": ""
+    },
+    {
+      "question": "Which of the following is not a measure of central tendency?      ",
+      "answer": "standard deviation",
+      "explanation": ""
+    },
+    {
+      "question": "which one of these statistics is unaf",
+      "answer": "interquartile deviation",
+      "explanation": ""
+    },
+    {
+      "question": "is not a measure of the variability of data",
+      "answer": "mode",
+      "explanation": ""
+    },
+    {
+      "question": "shape of normal curve can be related to L",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "question": "central dendency",
+      "answer": "standard deviation",
+      "explanation": ""
+    },
+    {
+      "question": "the mean is",
+      "answer": "the statistical or arithmetic average",
+      "explanation": ""
+    },
+    {
+      "question": "the value splits off the lowest 75% f data from the highest",
+      "answer": "3rd quartile",
+      "explanation": ""
+    },
+    {
+      "question": "skewness of normal distribution",
+      "answer": "0",
+      "explanation": ""
     }
   ]
 }
